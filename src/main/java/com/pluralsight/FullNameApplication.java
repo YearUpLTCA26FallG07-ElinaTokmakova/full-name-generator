@@ -40,6 +40,6 @@ public class FullNameApplication {
             fullName = fullName + ", " + suffix;
         }
 
-        System.out.println("\n--- Generated full name: " + fullName);
+        System.out.println("\nGenerated full name: " + fullName);
     }
 }
